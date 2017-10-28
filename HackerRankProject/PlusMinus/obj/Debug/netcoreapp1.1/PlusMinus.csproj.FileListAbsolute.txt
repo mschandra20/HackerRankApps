@@ -1,0 +1,10 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\bin\Debug\netcoreapp1.1\PlusMinus.deps.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\bin\Debug\netcoreapp1.1\PlusMinus.runtimeconfig.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\bin\Debug\netcoreapp1.1\PlusMinus.runtimeconfig.dev.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\bin\Debug\netcoreapp1.1\PlusMinus.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\bin\Debug\netcoreapp1.1\PlusMinus.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\obj\Debug\netcoreapp1.1\PlusMinus.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\obj\Debug\netcoreapp1.1\PlusMinus.csproj.CoreCompileInputs.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\obj\Debug\netcoreapp1.1\PlusMinus.AssemblyInfo.cs
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\obj\Debug\netcoreapp1.1\PlusMinus.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\PlusMinus\obj\Debug\netcoreapp1.1\PlusMinus.pdb

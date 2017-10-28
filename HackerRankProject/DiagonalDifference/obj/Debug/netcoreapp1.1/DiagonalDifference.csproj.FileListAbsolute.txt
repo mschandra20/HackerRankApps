@@ -1,0 +1,10 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\bin\Debug\netcoreapp1.1\DiagonalDifference.deps.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\bin\Debug\netcoreapp1.1\DiagonalDifference.runtimeconfig.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\bin\Debug\netcoreapp1.1\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\bin\Debug\netcoreapp1.1\DiagonalDifference.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\bin\Debug\netcoreapp1.1\DiagonalDifference.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\obj\Debug\netcoreapp1.1\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\obj\Debug\netcoreapp1.1\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\obj\Debug\netcoreapp1.1\DiagonalDifference.AssemblyInfo.cs
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\obj\Debug\netcoreapp1.1\DiagonalDifference.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\DiagonalDifference\obj\Debug\netcoreapp1.1\DiagonalDifference.pdb

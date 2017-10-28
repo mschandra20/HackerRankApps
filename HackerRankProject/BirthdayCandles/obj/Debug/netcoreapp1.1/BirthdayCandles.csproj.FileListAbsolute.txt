@@ -1,0 +1,10 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\bin\Debug\netcoreapp1.1\BirthdayCandles.deps.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\bin\Debug\netcoreapp1.1\BirthdayCandles.runtimeconfig.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\bin\Debug\netcoreapp1.1\BirthdayCandles.runtimeconfig.dev.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\bin\Debug\netcoreapp1.1\BirthdayCandles.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\bin\Debug\netcoreapp1.1\BirthdayCandles.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\obj\Debug\netcoreapp1.1\BirthdayCandles.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\obj\Debug\netcoreapp1.1\BirthdayCandles.csproj.CoreCompileInputs.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\obj\Debug\netcoreapp1.1\BirthdayCandles.AssemblyInfo.cs
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\obj\Debug\netcoreapp1.1\BirthdayCandles.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\BirthdayCandles\obj\Debug\netcoreapp1.1\BirthdayCandles.pdb

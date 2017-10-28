@@ -1,0 +1,10 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\bin\Debug\netcoreapp1.1\TimeConversion.deps.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\bin\Debug\netcoreapp1.1\TimeConversion.runtimeconfig.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\bin\Debug\netcoreapp1.1\TimeConversion.runtimeconfig.dev.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\bin\Debug\netcoreapp1.1\TimeConversion.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\bin\Debug\netcoreapp1.1\TimeConversion.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\obj\Debug\netcoreapp1.1\TimeConversion.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\obj\Debug\netcoreapp1.1\TimeConversion.csproj.CoreCompileInputs.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\obj\Debug\netcoreapp1.1\TimeConversion.AssemblyInfo.cs
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\obj\Debug\netcoreapp1.1\TimeConversion.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\TimeConversion\obj\Debug\netcoreapp1.1\TimeConversion.pdb

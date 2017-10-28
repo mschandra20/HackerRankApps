@@ -1,0 +1,10 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\bin\Debug\netcoreapp1.1\Staircase.deps.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\bin\Debug\netcoreapp1.1\Staircase.runtimeconfig.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\bin\Debug\netcoreapp1.1\Staircase.runtimeconfig.dev.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\bin\Debug\netcoreapp1.1\Staircase.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\bin\Debug\netcoreapp1.1\Staircase.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\obj\Debug\netcoreapp1.1\Staircase.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\obj\Debug\netcoreapp1.1\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\obj\Debug\netcoreapp1.1\Staircase.AssemblyInfo.cs
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\obj\Debug\netcoreapp1.1\Staircase.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\Staircase\obj\Debug\netcoreapp1.1\Staircase.pdb

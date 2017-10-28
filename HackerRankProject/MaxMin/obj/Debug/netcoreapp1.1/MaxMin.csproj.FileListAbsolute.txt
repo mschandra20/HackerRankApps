@@ -1,0 +1,10 @@
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\bin\Debug\netcoreapp1.1\MaxMin.deps.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\bin\Debug\netcoreapp1.1\MaxMin.runtimeconfig.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\bin\Debug\netcoreapp1.1\MaxMin.runtimeconfig.dev.json
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\bin\Debug\netcoreapp1.1\MaxMin.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\bin\Debug\netcoreapp1.1\MaxMin.pdb
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\obj\Debug\netcoreapp1.1\MaxMin.csprojResolveAssemblyReference.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\obj\Debug\netcoreapp1.1\MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\obj\Debug\netcoreapp1.1\MaxMin.AssemblyInfo.cs
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\obj\Debug\netcoreapp1.1\MaxMin.dll
+C:\Users\SHARATHCHANDRA\Documents\Visual Studio 2017\Projects\HackerRankProjects\HackerRankProject\MaxMin\obj\Debug\netcoreapp1.1\MaxMin.pdb
